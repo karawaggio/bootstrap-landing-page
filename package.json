@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-landing-page",
+  "version": "1.0.0",
+  "description": "Custom landing page using Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karawaggio/bootstrap-landing-page.git"
+  },
+  "author": "Sergey Karavaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karawaggio/bootstrap-landing-page/issues"
+  },
+  "homepage": "https://github.com/karawaggio/bootstrap-landing-page#readme",
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "sass": "^1.22.1"
+  }
+}
